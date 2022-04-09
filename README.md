@@ -15,8 +15,8 @@
 
 
 ### Github Stats:
-[![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oracle08&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oracle08&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Jessica's GitHub stats](https://github-readme-stats.vercel.app/api?username=K0sandra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K0sandra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Listening to Spotify: 
 [![Spotify](https://novatorem-oracle08.vercel.app/api/spotify)](https://open.spotify.com/user/9xc6nzszso7tijhctteii0xn1)
@@ -49,7 +49,7 @@
 
 ### Github Streak:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Oracle08&theme=radical&hide_border=true&fire=DD2727&sideNums=DD35B5&currStreakNum=3CDD23)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=K0sandra&theme=radical&hide_border=true&fire=DD2727&sideNums=DD35B5&currStreakNum=3CDD23)](https://git.io/streak-stats)
 
 
 [discord]: https://discords.com/bio/p/040806 
