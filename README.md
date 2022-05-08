@@ -3,7 +3,7 @@
 
 <h3 align="center"> I'm a student, 16 year old programmer and a future software developer!! </h3>
 
-<p align="center"> - 🤖 Started coding since last year and been coding for a total of 6 months </p>
+<p align="center"> - 🤖 Started coding since last year and been coding for a total of 2 years </p>
 <p align="center"> - ‍💻 Self taught programmer and my favourite language is Python 🐍 </p>
 <p align="center"> - 🤝 I’m looking to collaborate with other programmers and creators </p>
 <p align="center"> - 🥅 2021 Goals: Finish my discord bot project and use it in my discord server </p>
