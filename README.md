@@ -1,7 +1,7 @@
 <h1 align="center">  Hi there, I'm Jessica - aka The Oracle 👧🏽 </h1>
 
 
-<h3 align="center"> I'm a student, 15 year old programmer and a future software developer!! </h3>
+<h3 align="center"> I'm a student, 16 year old programmer and a future software developer!! </h3>
 
 <p align="center"> - 🤖 Started coding since last year and been coding for a total of 6 months </p>
 <p align="center"> - ‍💻 Self taught programmer and my favourite language is Python 🐍 </p>
